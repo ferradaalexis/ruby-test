@@ -14,7 +14,7 @@ development:
   <<: *default
   database: comparaonline_development
   username: alexis
-  password: 
+  password: ddr71216
   host: localhost
   port: 5432
 
